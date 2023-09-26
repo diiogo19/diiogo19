@@ -1,6 +1,7 @@
 ## Olá! O meu nome é Diogo Nogueira e sou um estudante de TI e Programador
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diiogo19&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
     <img align=center alt="Diogo-C" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
